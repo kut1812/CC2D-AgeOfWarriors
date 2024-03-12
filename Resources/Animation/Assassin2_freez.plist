@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>frames</key>
+    <dict>
+      <key>Assassin2_freez (4)</key>
+      <dict>
+        <key>frame</key>
+        <string>{{0,0},{42.839999999999996,58.32}}</string>
+        <key>offset</key>
+        <string>{0,-23.940000000000012}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{42.839999999999996,59.04},{42.839999999999996,58.32}}</string>
+        <key>sourceSize</key>
+        <string>{128.51999999999998,128.51999999999998}</string>
+      </dict>
+      <key>Assassin2_freez (3)</key>
+      <dict>
+        <key>frame</key>
+        <string>{{0,58.32},{42.48,58.32}}</string>
+        <key>offset</key>
+        <string>{0.18000000000000682,-23.940000000000012}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{43.199999999999996,59.04},{42.48,58.32}}</string>
+        <key>sourceSize</key>
+        <string>{128.51999999999998,128.51999999999998}</string>
+      </dict>
+      <key>Assassin2_freez (5)</key>
+      <dict>
+        <key>frame</key>
+        <string>{{0,116.64},{42.48,58.32}}</string>
+        <key>offset</key>
+        <string>{0.18000000000000682,-23.940000000000012}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{43.199999999999996,59.04},{42.48,58.32}}</string>
+        <key>sourceSize</key>
+        <string>{128.51999999999998,128.51999999999998}</string>
+      </dict>
+      <key>Assassin2_freez (6)</key>
+      <dict>
+        <key>frame</key>
+        <string>{{0,174.95999999999998},{42.48,58.32}}</string>
+        <key>offset</key>
+        <string>{0.18000000000000682,-23.940000000000012}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{43.199999999999996,59.04},{42.48,58.32}}</string>
+        <key>sourceSize</key>
+        <string>{128.51999999999998,128.51999999999998}</string>
+      </dict>
+      <key>Assassin2_freez (1)</key>
+      <dict>
+        <key>frame</key>
+        <string>{{0,233.28},{42.12,58.32}}</string>
+        <key>offset</key>
+        <string>{0.35999999999999943,-23.940000000000012}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{43.559999999999995,59.04},{42.12,58.32}}</string>
+        <key>sourceSize</key>
+        <string>{128.51999999999998,128.51999999999998}</string>
+      </dict>
+      <key>Assassin2_freez (2)</key>
+      <dict>
+        <key>frame</key>
+        <string>{{0,291.59999999999997},{42.12,58.32}}</string>
+        <key>offset</key>
+        <string>{0.35999999999999943,-23.940000000000012}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{43.559999999999995,59.04},{42.12,58.32}}</string>
+        <key>sourceSize</key>
+        <string>{128.51999999999998,128.51999999999998}</string>
+      </dict>
+      <key>Assassin2_freez (7)</key>
+      <dict>
+        <key>frame</key>
+        <string>{{0,349.91999999999996},{42.12,58.32}}</string>
+        <key>offset</key>
+        <string>{0.35999999999999943,-23.940000000000012}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{43.559999999999995,59.04},{42.12,58.32}}</string>
+        <key>sourceSize</key>
+        <string>{128.51999999999998,128.51999999999998}</string>
+      </dict>
+    </dict>
+    <key>metadata</key>
+    <dict>
+      <key>format</key>
+      <integer>2</integer>
+      <key>pixelFormat</key>
+      <string>RGBA8888</string>
+      <key>premultiplyAlpha</key>
+      <false/>
+      <key>realTextureFileName</key>
+      <string>Assassin2_freez.png</string>
+      <key>size</key>
+      <string>{43,408}</string>
+      <key>textureFileName</key>
+      <string>Assassin2_freez</string>
+    </dict>
+  </dict>
+</plist>

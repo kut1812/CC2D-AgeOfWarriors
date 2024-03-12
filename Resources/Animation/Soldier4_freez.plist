@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>frames</key>
+    <dict>
+      <key>Soldier4_freez (3)</key>
+      <dict>
+        <key>frame</key>
+        <string>{{0,0},{69.48,78.48}}</string>
+        <key>offset</key>
+        <string>{-10.079999999999998,-26.10000000000001}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{36.36,68.03999999999999},{69.48,78.48}}</string>
+        <key>sourceSize</key>
+        <string>{162.35999999999999,162.35999999999999}</string>
+      </dict>
+      <key>Soldier4_freez (4)</key>
+      <dict>
+        <key>frame</key>
+        <string>{{0,78.48},{69.48,78.48}}</string>
+        <key>offset</key>
+        <string>{-10.079999999999998,-26.10000000000001}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{36.36,68.03999999999999},{69.48,78.48}}</string>
+        <key>sourceSize</key>
+        <string>{162.35999999999999,162.35999999999999}</string>
+      </dict>
+      <key>Soldier4_freez (5)</key>
+      <dict>
+        <key>frame</key>
+        <string>{{0,156.96},{69.48,78.48}}</string>
+        <key>offset</key>
+        <string>{-10.079999999999998,-26.10000000000001}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{36.36,68.03999999999999},{69.48,78.48}}</string>
+        <key>sourceSize</key>
+        <string>{162.35999999999999,162.35999999999999}</string>
+      </dict>
+      <key>Soldier4_freez (6)</key>
+      <dict>
+        <key>frame</key>
+        <string>{{0,235.44},{69.48,78.48}}</string>
+        <key>offset</key>
+        <string>{-10.079999999999998,-26.10000000000001}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{36.36,68.03999999999999},{69.48,78.48}}</string>
+        <key>sourceSize</key>
+        <string>{162.35999999999999,162.35999999999999}</string>
+      </dict>
+      <key>Soldier4_freez (2)</key>
+      <dict>
+        <key>frame</key>
+        <string>{{0,313.92},{69.48,78.11999999999999}}</string>
+        <key>offset</key>
+        <string>{-10.079999999999998,-26.279999999999987}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{36.36,68.39999999999999},{69.48,78.11999999999999}}</string>
+        <key>sourceSize</key>
+        <string>{162.35999999999999,162.35999999999999}</string>
+      </dict>
+      <key>Soldier4_freez (7)</key>
+      <dict>
+        <key>frame</key>
+        <string>{{0,392.03999999999996},{69.48,78.11999999999999}}</string>
+        <key>offset</key>
+        <string>{-10.079999999999998,-26.279999999999987}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{36.36,68.39999999999999},{69.48,78.11999999999999}}</string>
+        <key>sourceSize</key>
+        <string>{162.35999999999999,162.35999999999999}</string>
+      </dict>
+      <key>Soldier4_freez (1)</key>
+      <dict>
+        <key>frame</key>
+        <string>{{0,470.15999999999997},{69.48,77.75999999999999}}</string>
+        <key>offset</key>
+        <string>{-10.079999999999998,-26.459999999999994}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{36.36,68.75999999999999},{69.48,77.75999999999999}}</string>
+        <key>sourceSize</key>
+        <string>{162.35999999999999,162.35999999999999}</string>
+      </dict>
+    </dict>
+    <key>metadata</key>
+    <dict>
+      <key>format</key>
+      <integer>2</integer>
+      <key>pixelFormat</key>
+      <string>RGBA8888</string>
+      <key>premultiplyAlpha</key>
+      <false/>
+      <key>realTextureFileName</key>
+      <string>Soldier4_freez.png</string>
+      <key>size</key>
+      <string>{69,548}</string>
+      <key>textureFileName</key>
+      <string>Soldier4_freez</string>
+    </dict>
+  </dict>
+</plist>

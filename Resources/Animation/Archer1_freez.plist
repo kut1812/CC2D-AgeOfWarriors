@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>frames</key>
+    <dict>
+      <key>Archer1_freez (3)</key>
+      <dict>
+        <key>frame</key>
+        <string>{{0,0},{57.96,78.48}}</string>
+        <key>offset</key>
+        <string>{-14.039999999999992,-23.58}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{36.72,64.08},{57.96,78.48}}</string>
+        <key>sourceSize</key>
+        <string>{159.48,159.48}</string>
+      </dict>
+      <key>Archer1_freez (4)</key>
+      <dict>
+        <key>frame</key>
+        <string>{{0,78.48},{57.96,78.48}}</string>
+        <key>offset</key>
+        <string>{-14.039999999999992,-23.58}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{36.72,64.08},{57.96,78.48}}</string>
+        <key>sourceSize</key>
+        <string>{159.48,159.48}</string>
+      </dict>
+      <key>Archer1_freez (5)</key>
+      <dict>
+        <key>frame</key>
+        <string>{{0,156.96},{57.96,78.48}}</string>
+        <key>offset</key>
+        <string>{-14.039999999999992,-23.58}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{36.72,64.08},{57.96,78.48}}</string>
+        <key>sourceSize</key>
+        <string>{159.48,159.48}</string>
+      </dict>
+      <key>Archer1_freez (6)</key>
+      <dict>
+        <key>frame</key>
+        <string>{{0,235.44},{57.96,78.48}}</string>
+        <key>offset</key>
+        <string>{-14.039999999999992,-23.58}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{36.72,64.08},{57.96,78.48}}</string>
+        <key>sourceSize</key>
+        <string>{159.48,159.48}</string>
+      </dict>
+      <key>Archer1_freez (1)</key>
+      <dict>
+        <key>frame</key>
+        <string>{{0,313.92},{57.96,78.11999999999999}}</string>
+        <key>offset</key>
+        <string>{-14.039999999999992,-23.760000000000005}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{36.72,64.44},{57.96,78.11999999999999}}</string>
+        <key>sourceSize</key>
+        <string>{159.48,159.48}</string>
+      </dict>
+      <key>Archer1_freez (2)</key>
+      <dict>
+        <key>frame</key>
+        <string>{{0,392.03999999999996},{57.96,78.11999999999999}}</string>
+        <key>offset</key>
+        <string>{-14.039999999999992,-23.760000000000005}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{36.72,64.44},{57.96,78.11999999999999}}</string>
+        <key>sourceSize</key>
+        <string>{159.48,159.48}</string>
+      </dict>
+      <key>Archer1_freez (7)</key>
+      <dict>
+        <key>frame</key>
+        <string>{{0,470.15999999999997},{57.96,78.11999999999999}}</string>
+        <key>offset</key>
+        <string>{-14.039999999999992,-23.760000000000005}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{36.72,64.44},{57.96,78.11999999999999}}</string>
+        <key>sourceSize</key>
+        <string>{159.48,159.48}</string>
+      </dict>
+    </dict>
+    <key>metadata</key>
+    <dict>
+      <key>format</key>
+      <integer>2</integer>
+      <key>pixelFormat</key>
+      <string>RGBA8888</string>
+      <key>premultiplyAlpha</key>
+      <false/>
+      <key>realTextureFileName</key>
+      <string>Archer1_freez.png</string>
+      <key>size</key>
+      <string>{58,548}</string>
+      <key>textureFileName</key>
+      <string>Archer1_freez</string>
+    </dict>
+  </dict>
+</plist>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>frames</key>
+    <dict>
+      <key>Archer2_freez (3)</key>
+      <dict>
+        <key>frame</key>
+        <string>{{0,0},{41.04,51.839999999999996}}</string>
+        <key>offset</key>
+        <string>{-3.4200000000000017,-23.939999999999998}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{37.44,59.4},{41.04,51.839999999999996}}</string>
+        <key>sourceSize</key>
+        <string>{122.75999999999999,122.75999999999999}</string>
+      </dict>
+      <key>Archer2_freez (6)</key>
+      <dict>
+        <key>frame</key>
+        <string>{{0,51.839999999999996},{41.04,51.839999999999996}}</string>
+        <key>offset</key>
+        <string>{-3.4200000000000017,-23.939999999999998}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{37.44,59.4},{41.04,51.839999999999996}}</string>
+        <key>sourceSize</key>
+        <string>{122.75999999999999,122.75999999999999}</string>
+      </dict>
+      <key>Archer2_freez (1)</key>
+      <dict>
+        <key>frame</key>
+        <string>{{0,103.67999999999999},{40.68,51.839999999999996}}</string>
+        <key>offset</key>
+        <string>{-3.239999999999995,-23.939999999999998}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{37.8,59.4},{40.68,51.839999999999996}}</string>
+        <key>sourceSize</key>
+        <string>{122.75999999999999,122.75999999999999}</string>
+      </dict>
+      <key>Archer2_freez (2)</key>
+      <dict>
+        <key>frame</key>
+        <string>{{0,155.51999999999998},{40.68,51.839999999999996}}</string>
+        <key>offset</key>
+        <string>{-3.239999999999995,-23.939999999999998}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{37.8,59.4},{40.68,51.839999999999996}}</string>
+        <key>sourceSize</key>
+        <string>{122.75999999999999,122.75999999999999}</string>
+      </dict>
+      <key>Archer2_freez (7)</key>
+      <dict>
+        <key>frame</key>
+        <string>{{0,207.35999999999999},{40.68,51.839999999999996}}</string>
+        <key>offset</key>
+        <string>{-3.239999999999995,-23.939999999999998}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{37.8,59.4},{40.68,51.839999999999996}}</string>
+        <key>sourceSize</key>
+        <string>{122.75999999999999,122.75999999999999}</string>
+      </dict>
+      <key>Archer2_freez (4)</key>
+      <dict>
+        <key>frame</key>
+        <string>{{0,259.2},{41.04,51.48}}</string>
+        <key>offset</key>
+        <string>{-3.4200000000000017,-24.120000000000005}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{37.44,59.76},{41.04,51.48}}</string>
+        <key>sourceSize</key>
+        <string>{122.75999999999999,122.75999999999999}</string>
+      </dict>
+      <key>Archer2_freez (5)</key>
+      <dict>
+        <key>frame</key>
+        <string>{{40.68,103.67999999999999},{41.04,51.48}}</string>
+        <key>offset</key>
+        <string>{-3.4200000000000017,-24.120000000000005}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{37.44,59.76},{41.04,51.48}}</string>
+        <key>sourceSize</key>
+        <string>{122.75999999999999,122.75999999999999}</string>
+      </dict>
+    </dict>
+    <key>metadata</key>
+    <dict>
+      <key>format</key>
+      <integer>2</integer>
+      <key>pixelFormat</key>
+      <string>RGBA8888</string>
+      <key>premultiplyAlpha</key>
+      <false/>
+      <key>realTextureFileName</key>
+      <string>Archer2_freez.png</string>
+      <key>size</key>
+      <string>{82,311}</string>
+      <key>textureFileName</key>
+      <string>Archer2_freez</string>
+    </dict>
+  </dict>
+</plist>

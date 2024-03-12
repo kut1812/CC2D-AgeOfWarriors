@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>frames</key>
+    <dict>
+      <key>Combatant2_freez (4)</key>
+      <dict>
+        <key>frame</key>
+        <string>{{0,0},{57.96,51.839999999999996}}</string>
+        <key>offset</key>
+        <string>{-0.35999999999999943,-19.259999999999998}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{25.56,48.239999999999995},{57.96,51.839999999999996}}</string>
+        <key>sourceSize</key>
+        <string>{109.8,109.8}</string>
+      </dict>
+      <key>Combatant2_freez (5)</key>
+      <dict>
+        <key>frame</key>
+        <string>{{57.96,0},{57.96,51.839999999999996}}</string>
+        <key>offset</key>
+        <string>{-0.35999999999999943,-19.259999999999998}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{25.56,48.239999999999995},{57.96,51.839999999999996}}</string>
+        <key>sourceSize</key>
+        <string>{109.8,109.8}</string>
+      </dict>
+      <key>Combatant2_freez (3)</key>
+      <dict>
+        <key>frame</key>
+        <string>{{115.92,0},{57.239999999999995,51.839999999999996}}</string>
+        <key>offset</key>
+        <string>{-7.105427357601002e-15,-19.259999999999998}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{26.279999999999998,48.239999999999995},{57.239999999999995,51.839999999999996}}</string>
+        <key>sourceSize</key>
+        <string>{109.8,109.8}</string>
+      </dict>
+      <key>Combatant2_freez (6)</key>
+      <dict>
+        <key>frame</key>
+        <string>{{173.16,0},{57.239999999999995,51.839999999999996}}</string>
+        <key>offset</key>
+        <string>{-7.105427357601002e-15,-19.259999999999998}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{26.279999999999998,48.239999999999995},{57.239999999999995,51.839999999999996}}</string>
+        <key>sourceSize</key>
+        <string>{109.8,109.8}</string>
+      </dict>
+      <key>Combatant2_freez (2)</key>
+      <dict>
+        <key>frame</key>
+        <string>{{230.39999999999998,0},{56.519999999999996,51.839999999999996}}</string>
+        <key>offset</key>
+        <string>{0.35999999999999943,-19.259999999999998}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{27,48.239999999999995},{56.519999999999996,51.839999999999996}}</string>
+        <key>sourceSize</key>
+        <string>{109.8,109.8}</string>
+      </dict>
+      <key>Combatant2_freez (7)</key>
+      <dict>
+        <key>frame</key>
+        <string>{{286.92,0},{56.519999999999996,51.839999999999996}}</string>
+        <key>offset</key>
+        <string>{0.35999999999999943,-19.259999999999998}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{27,48.239999999999995},{56.519999999999996,51.839999999999996}}</string>
+        <key>sourceSize</key>
+        <string>{109.8,109.8}</string>
+      </dict>
+      <key>Combatant2_freez (1)</key>
+      <dict>
+        <key>frame</key>
+        <string>{{343.44,0},{55.8,51.839999999999996}}</string>
+        <key>offset</key>
+        <string>{0.7199999999999989,-19.259999999999998}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{27.72,48.239999999999995},{55.8,51.839999999999996}}</string>
+        <key>sourceSize</key>
+        <string>{109.8,109.8}</string>
+      </dict>
+    </dict>
+    <key>metadata</key>
+    <dict>
+      <key>format</key>
+      <integer>2</integer>
+      <key>pixelFormat</key>
+      <string>RGBA8888</string>
+      <key>premultiplyAlpha</key>
+      <false/>
+      <key>realTextureFileName</key>
+      <string>Combatant2_freez.png</string>
+      <key>size</key>
+      <string>{399,52}</string>
+      <key>textureFileName</key>
+      <string>Combatant2_freez</string>
+    </dict>
+  </dict>
+</plist>

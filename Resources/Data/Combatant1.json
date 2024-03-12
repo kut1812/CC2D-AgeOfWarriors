@@ -1,0 +1,8 @@
+{
+    "_price" : 60,
+    "_healthChess" : 350,
+    "_damageChess" : 40,
+    "_attackSpeed" : 1.5,
+    "_speedChess" : 100,
+    "_fightFar" : false
+}
